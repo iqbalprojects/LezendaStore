@@ -15,7 +15,7 @@
         <div class="lg:col-span-3 lg:grid lg:grid-cols-3">
             <figure>
                 <img
-                    src="./../../public/images/Bundle1.png"
+                    src="/images/Bundle1.png"
                     alt="Clean Mixer Bundle"
                     class="scale-90 lg:scale-100 lg:pt-6 lg:mb-2"
                 />
@@ -26,7 +26,7 @@
             </figure>
             <figure>
                 <img
-                    src="./../../public/images/Bundle1.png"
+                    src="/images/Bundle1.png"
                     alt="Clean Mimosa Bundle"
                     class="scale-90"
                 />
@@ -37,7 +37,7 @@
             </figure>
             <figure>
                 <img
-                    src="./../../public/images/Bundle1.png"
+                    src="/images/Bundle1.png"
                     alt="Immunity Boosting Bundle"
                     class="scale-90"
                 />
